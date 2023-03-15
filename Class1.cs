@@ -11,4 +11,8 @@ namespace ConsoleApp9
             //cc
         }
     }
+    
+    class Class2
+    {
+    }
 }
